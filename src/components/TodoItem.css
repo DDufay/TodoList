@@ -1,0 +1,11 @@
+.done {
+    text-decoration: line-through;
+}
+
+span {
+    margin-right: 10px;
+}
+
+.item {
+    margin-bottom: 20px;
+}
